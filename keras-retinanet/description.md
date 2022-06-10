@@ -1,0 +1,1 @@
+This folder was cloned from the following repo: https://github.com/fizyr/keras-retinanet
